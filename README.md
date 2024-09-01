@@ -15,7 +15,6 @@ Budget Tracker is a web-based application designed to help users manage their da
 - **Java**: The core language used for backend logic and handling business rules.
 - **JSP (JavaServer Pages)**: Used for creating dynamic web pages and rendering HTML content.
 - **Servlets**: Handle HTTP requests and responses for the application.
-- **HTML/CSS**: Provides the structure and styling for the web pages.
 
 ## How to Use
 1. **Add New Expense**: 
@@ -23,7 +22,5 @@ Budget Tracker is a web-based application designed to help users manage their da
    - Click "Add Expense" to add it to the list.
 2. **Delete Expense**:
    - Click the "Delete" button next to an expense to remove it from the list.
-
-3. **History of Changes**:
-   - **Version 1.0** (Initial Release):
+3. **History**:
      - Basic functionality to view past and current expenses.
