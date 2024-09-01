@@ -18,5 +18,12 @@ Budget Tracker is a web-based application designed to help users manage their da
 - **HTML/CSS**: Provides the structure and styling for the web pages.
 
 ## How to Use
-1. **Add New Expense**: Fill in the expense name, amount, and date in the form on the dashboard and click "Add Expense" to add it to the list.
-3. **Delete Expense**: Click the "Delete" button next to an expense to remove it from the list.
+1. **Add New Expense**: 
+   - Fill in the expense name, amount, and date in the form on the dashboard.
+   - Click "Add Expense" to add it to the list.
+2. **Delete Expense**:
+   - Click the "Delete" button next to an expense to remove it from the list.
+
+3. **History of Changes**:
+   - **Version 1.0** (Initial Release):
+     - Basic functionality to view past and current expenses.
