@@ -148,7 +148,7 @@
     <nav>
         <ul>
             <li><a href="index.jsp">Dashboard</a></li>
-            <li><a href="budget.jsp">Budget</a></li>
+            <li><a href="budget.jsp">History</a></li>
         </ul>
     </nav>
 </header>
